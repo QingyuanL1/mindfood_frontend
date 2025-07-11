@@ -1,0 +1,12 @@
+.btn-hover {
+    background-color: rgb(251, 146, 60);
+    color: white;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+  }
+  
+  .btn-hover:hover {
+    background-color: transparent;
+    border: 2px solid rgb(251, 146, 60);
+    color: rgb(251, 146, 60);
+  }
